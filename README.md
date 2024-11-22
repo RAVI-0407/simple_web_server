@@ -144,7 +144,8 @@ Testing the webserver.
 </body>
 </html>
 # OUTPUT:
-![Screenshot 2024-11-22 101057](https://github.com/user-attachments/assets/8b2f6be8-71c8-4511-9d83-6aefed342717)
+![Screenshot 2024-11-22 101707](https://github.com/user-attachments/assets/c137c5cb-215e-4f97-9931-9dd23e2aabae)
+
 
 
 # RESULT:
