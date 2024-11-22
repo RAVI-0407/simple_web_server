@@ -144,7 +144,8 @@ Testing the webserver.
 </body>
 </html>
 # OUTPUT:
-![Screenshot 2024-11-22 101057](https://github.com/user-attachments/assets/fe70222d-7236-4f96-9a3a-77884fc348c1)
+![Screenshot 2024-11-22 101057](https://github.com/user-attachments/assets/8b2f6be8-71c8-4511-9d83-6aefed342717)
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
