@@ -25,6 +25,7 @@ Testing the webserver.
 # OUTPUT:
 
 
+![Screenshot 2024-11-22 225102](https://github.com/user-attachments/assets/5d4a8987-042b-43b7-9283-35900690c372)
 
 
 # RESULT:
