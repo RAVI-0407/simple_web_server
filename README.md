@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
-```html
+```
 from django.shortcuts import render
 content='''
 <!DOCTYPE html>
