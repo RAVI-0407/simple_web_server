@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
-~~~
+```
 from django.shortcuts import render
 content='''
 <!DOCTYPE html>
@@ -160,9 +160,9 @@ print("This is my webserver")
 server_address = ('',8000)
 httpd = HTTPServer(server_address,Myserver)
 httpd.serve_forever()
-~~~
-
+```
 # OUTPUT:
+
 ![Screenshot 2024-11-25 141935](https://github.com/user-attachments/assets/351447b7-8a0d-44c6-bcd0-00cf490a56a4)
 
 
